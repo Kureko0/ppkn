@@ -104,3 +104,83 @@ Berapa lama syarat menjadi seorang WNI?
 - Tinggal 6 tahun berturut-turut, atau 10 tahun tidak berturut
 - Tinggal 5 tahun berturut-turut, atau 10 tahun tidak berturut ✅
 - Tinggal 7 tahun berturut-turut, atau 10 tahun tidak berturut
+
+
+
+
+## Latihan Soal Esai PKN
+
+### Date: X MIPA 2
+
+### 1. Sebutkan perbedaan bentuk-bentuk negara!
+- **Negara Kesatuan**: 
+  - Memiliki sifat unitaris (tidak ada negara lain yang lebih kecil di dalamnya)
+  - Terdiri dari provinsi
+- **Negara Serikat**:
+  - Terbentuk dari negara-negara bagian yang lebih kecil
+  - Hukum berbeda-beda di setiap negara bagian
+
+### 2. Tuliskan sebab-sebab terbentuknya NKRI!
+- Adanya persamaan nasib
+- Keinginan bersama untuk merdeka
+- Kesatuan tempat tinggal
+- Cita-cita bersama
+
+### 3. Sebutkan perbedaan sistem presidensial dan parlementer!
+- **Sistem Presidensial**:
+  - Kepala negaranya adalah presiden
+  - Presiden memiliki kekuasaan eksekutif penuh
+- **Sistem Parlementer**:
+  - Kepala pemerintahan adalah perdana menteri
+  - Kepala negara bisa berupa raja/ratu, kaisar, sultan, atau presiden
+
+### 4. Sebutkan kewenangan Mahkamah Konstitusi!
+- Menguji undang-undang terhadap UUD
+- Memutus sengketa kewenangan lembaga negara
+- Memutus pembubaran partai politik
+- Memutus perselisihan tentang hasil pemilihan umum
+
+### 5. Sebutkan 3 kasus pelanggaran hak dan pengingkaran kewajiban sebagai warga negara!
+- **Pelanggaran Hak**:
+  - 737 anak Indonesia putus sekolah tahun 2017
+  - Tidak mendapatkan tanggapan hukum yang adil
+  - Masyarakat minoritas tidak mendapatkan hak pilih
+- **Pengingkaran Kewajiban**:
+  - Tidak membayar pajak
+  - Tidak memiliki SIM/KTP
+  - Merusak fasilitas umum
+
+### 6. Sebutkan 3 pengaruh positif dan 3 pengaruh negatif IPTEK!
+- **Positif**:
+  - Hasil seni budaya makin dikenal dan diminati melalui media sosial
+  - Kualitas dan produksi barang dalam negeri meningkat
+  - Kesenian daerah semakin berkembang karena masuknya seni modern
+- **Negatif**:
+  - Unsur adat istiadat daerah makin memudar
+  - Internet menyebarkan hal-hal negatif
+  - Maraknya penyelundupan barang-barang berteknologi tinggi
+
+### 7. Sebutkan sikap selektif dalam menghadapi pengaruh kemajuan IPTEK!
+- Jangan mudah terbawa arus
+- Pilih-pilih informasi yang positif
+- Dasarkan keputusan pada iman kepada Allah
+- Punya ideologi yang teguh
+
+### 8. Sebutkan contoh persatuan dan kesatuan!
+- Toleransi agama, menghargai agama lain tanpa mengganggu atau mengejek
+- Gotong royong, seperti membantu membersihkan lingkungan bersama tetangga
+- Menghargai keanekaragaman budaya, seperti mengapresiasi festival budaya dengan mengunjungi dan menonton pertunjukan tradisional
+
+### 9. Sebutkan perbedaan bentuk pemerintahan republik dan monarki!
+- **Monarki**:
+  - Memiliki seorang raja/ratu sebagai kepala negara
+  - Kepala negara diangkat berdasarkan hak waris/keturunan
+  - Masa jabatan seumur hidup, kecuali turun takhta
+- **Republik**:
+  - Menggunakan sistem politik di mana kepala negara dipilih oleh rakyat melalui pemilu
+  - Rakyat memiliki hak dan kewajiban dalam menentukan pemimpin negara
+  - Kepala negara dan kepala pemerintahan terpisah
+
+### 10. Sebutkan 2 dasar hukum mengapa kita menggunakan bentuk negara kesatuan!
+- **Pasal 1 ayat 1**: "Negara Indonesia adalah negara kesatuan yang berbentuk republik."
+- **Pasal 18 ayat 1**: "Negara Kesatuan Republik Indonesia dibagi atas kabupaten dan kota, yang tiap provinsi, kabupaten, dan kota itu mempunyai pemerintahan daerah yang diatur dengan undang-undang."
