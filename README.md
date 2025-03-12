@@ -1,186 +1,89 @@
-# PPKN
+# Rangkuman PSAJ Biologi
 
-## Question 1
-Seorang bayi lahir di negara yang menganut ius Soli, sedangkan orang tua bayi tersebut merupakan warga negara yang negaranya menganut ius Sanguinis, maka bayi tersebut mempunyai kewarganegaraan...
-- bipatrid (dua kewarganegaraan) ✅
-- kewarganegaraan sama dengan orang tua
-- apatrid (tidak mempunyai kewarganegaraan)
-- kewarganegaraannya sama dengan tempat di mana bayi lahir
+## 1. Virus
+- **Bakteriofag**: Virus yang menginfeksi bakteri.
+- **Siklus Litik**: Virus menghancurkan sel inang setelah replikasi.
+- **Siklus Lisogenik**: Virus menyisipkan materi genetiknya ke DNA inang.
+- **Ciri-ciri**: DNA/RNA sebagai materi genetik, hanya hidup dalam sel makhluk hidup, bereproduksi dengan replikasi, tidak bisa hidup tanpa inang.
+- **Jenis Virus**:
+  - **DNA**: Hepatitis B, Cacar Air.
+  - **RNA**: Ebola, Polio, Influenza.
 
-## Question 2
-Kota Depok pernah terjadi sengketa Pemilukada antara Nur Mahmudi dan Badrul Kamal, tindakan yang tepat menghadapi masalah tersebut adalah…
-- Melaporkan ke anggota DPR Pusat
-- Melaporkan ke Mahkamah Konstitusi untuk diadili dan diputuskan hasilnya ✅
-- Melakukan pemilihan ulang semuanya
-- Melaporkan ke Presiden untuk memilih pemenang Pemilu Depok
+## 2. Bakteri
+- **Pili**: Membantu bakteri menempel pada substrat dan bertukar materi genetik.
+- **Reproduksi**:
+  - **Seksual**: Konjugasi.
+  - **Aseksual**: Pembelahan biner.
 
-## Question 3
-Perjanjian antar negara sering terjadi, dimana harus melewati beberapa tahapan-tahapan, sebelum dimulai perjanjian, kapan mulai berlakunya perjanjian?
-- sejak pengesahan
-- sejak perundingan
-- sejak mulai diratifikasi
-- sejak penandatangan ✅
+## 3. Pola Interaksi Makhluk Hidup
+- **Simbiosis**:
+  - **Mutualisme**: Saling menguntungkan (contoh: Rhizobium dengan akar kacang-kacangan).
+  - **Parasitisme**: Satu diuntungkan, satu dirugikan (contoh: cacing pita di usus manusia).
+  - **Komensalisme**: Satu diuntungkan, satu netral (contoh: anggrek pada pohon).
+- **Predasi**: Hubungan pemangsa-mangsa (contoh: singa memangsa zebra).
+- **Kompetisi**: Persaingan sumber daya.
+- **Netralisme**: Tidak saling memengaruhi.
 
-## Question 4
-Negara Indonesia menjalin hubungan baik dengan negara-negara tetangga ASEAN, ASIA, Eropa, Amerika dll. Apakah pentingnya hubungan internasional bagi bangsa Indonesia?
-- Agar negara Indonesia terkenal di seluruh dunia
-- Meningkatkan kesejahteraan masyarakat Indonesia ✅
-- Agar masyarakat Indonesia dapat keliling dunia
-- Agar negara Indonesia tidak dikucilkan
+## 4. Metagenesis Tanaman Paku
+- **Fase Sporofit (2n)**: Dominan, menghasilkan spora melalui meiosis.
+- **Fase Gametofit (n)**: Menghasilkan gamet jantan dan betina.
+- **Fertilisasi**: Sperma dan telur bertemu membentuk zigot.
 
-## Question 5
-“Tawuran sampai menyebabkan banyak yang meninggal” antar masyarakat Dayak dan Madura di daerah Sampit Kalimantan, selain tidak sesuai dengan sila 1 dan ke 2, juga tidak sesuai dengan sila….
-- Ke Tuhanan Yang Maha Esa
-- Kemanusiaan yang adil dan beradab
-- Persatuan Indonesia ✅
-- Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan Pancasila
+## 5. Organel Sel
+- **Sel Hewan**:
+  - Mitokondria: Produksi ATP.
+  - Lisosom: Pencernaan intraseluler.
+  - Ribosom: Sintesis protein.
+  - Sentriol: Pembelahan sel.
+  - Badan Golgi: Ekskresi dan pembentukan membran plasma.
+  - Nukleus: Pusat kendali sel.
+- **Sel Tumbuhan**:
+  - Dinding sel: Struktur dan perlindungan.
+  - Plastida: Fotosintesis.
+  - Vakuola besar: Penyimpanan air dan nutrisi.
 
-## Question 6
-Di bawah ini merupakan salah satu dari wewenang Komisi Yudisial, yaitu….
-- Melakukan pendaftaran calon hakim agung
-- Mengusulkan pengangkatan hakim agung dan hakim ad hoc di MA ✅
-- Melakukan seleksi terhadap calon hakim agung
-- Menetapkan calon hakim agung
+## 6. Transportasi Zat Antar Sel
+- **Transpor Pasif**: Tanpa energi (difusi, osmosis).
+- **Transpor Aktif**: Membutuhkan energi (pompa ion, endositosis, eksositosis).
 
-## Question 7
-Apa yang dimaksud dengan tugas KPK berdasarkan UU No.30 Tahun 2002 untuk melakukan penyidikan?
-- Mencari bukti-bukti tindak pidana korupsi ✅
-- Mencari ada tidaknya tindak pidana korupsi
-- Mencari berkas-berkas laporan korupsi
-- Membuat berkas-berkas laporan korupsi
+## 7. Jaringan Meristem
+- **Meristem Apikal**: Pertumbuhan primer (ujung akar/batang).
+- **Meristem Lateral**: Pertumbuhan sekunder (kambium, kambium gabus).
+- **Meristem Interkalar**: Pertumbuhan pada pangkal ruas tumbuhan berumpun.
 
-## Question 8
-Apabila masyarakat tidak puas dengan isi UU Cipta Kerja, sebaiknya apa yang harus dilakukan?
-- Demo anarkis
-- Mengajukan Uji Materiil UU ke MK ✅
-- Menduduki Gedung DPR
-- Memaksa Presiden untuk turun jabatan karena merugikan buruh
+## 8. Sistem Ekskresi
+- **Ginjal**: Penyaringan darah, produksi urin.
+- **Kulit**: Ekskresi keringat.
+- **Paru-paru**: Ekskresi CO2 dan uap air.
+- **Hati**: Detoksifikasi, produksi empedu.
 
-## Question 9
-Apabila tidak puas terhadap keputusan pengadilan tinggi tingkat provinsi, apa yang harus dilakukan?
-- Melakukan Kasasi ✅
-- Mencari Novum
-- Melakukan Peninjauan Kembali
-- Melaporkan ke Mahkamah Konstitusi
+## 9. Sistem Reproduksi
+- **Laki-laki**: Testosteron, FSH, LH.
+- **Perempuan**: Estrogen, progesteron, FSH, LH, oksitosin.
 
-## Question 10
-Apabila peradilan sudah di tingkat Mahkamah Agung, kemudian ditemukan bukti baru (Novum), apa yang akan dilakukan?
-- Kasasi
-- Peninjauan Kembali ✅
-- Banding
-- Penyelidikan kembali
+## 10. Fotosintesis
+- **Reaksi Terang** (di membran tilakoid): Menghasilkan ATP, NADPH, O2.
+- **Siklus Calvin** (di stroma kloroplas): Menghasilkan glukosa dari CO2.
 
-## Question 11
-Berapakah luas laut teritorial?
-- 10 mil dihitung dari pantai terluar
-- 12 mil dihitung dari pantai terluar ✅
-- 11 mil dihitung dari pantai terluar
-- 14 mil dihitung dari pantai terluar
+## 11. Mutasi
+- **Mutagen**: Faktor penyebab mutasi (fisika, kimia, biologi).
+- **Dampak**: Kanker, cacat lahir, kerusakan DNA.
 
-## Question 12
-Apa yang dimaksud dengan Ius Soli?
-- Penentuan kewarganegaraan berdasarkan keturunan
-- Penentuan kewarganegaraan berdasarkan tempat lahir ✅
-- Penentuan kewarganegaraan berdasarkan pekerjaan
-- Penentuan kewarganegaraan berdasarkan kedudukan di masyarakat
+## 12. Persilangan Monohibrid & Dihibrid
+- **Monohibrid**: Persilangan satu sifat.
+- **Dihibrid**: Persilangan dua sifat.
 
-## Question 13
-Apabila kedua orang tua warga negara Amerika Serikat, menganut Asas Ius Soli, kemudian melahirkan di negara Indonesia yang menganut Ius Sanguinis, apa kewarganegaraan bayi yang dilahirkan tersebut?
-- Bi Patride
-- Triple Patride
-- Tri Patride
-- Apatride ✅
+## 13. Sintesis Protein
+- **Replikasi DNA**: Di nukleus, menggunakan enzim DNA polimerase.
+- **Transkripsi**: DNA → mRNA.
+- **Translasi**: mRNA → Protein (di ribosom).
 
-## Question 14
-Apa yang dimaksud dengan Zona Ekonomi Eksklusif?
-- Luas laut 200 mil dihitung dari Pantai terluar ✅
-- Luas laut 150 mil dihitung dari Pantai terluar
-- Luas laut 100 mil dihitung dari Pantai terluar
-- Luas laut 125 mil dihitung dari Pantai terluar
+## 14. Sistem Organ pada Manusia
+- **Sistem Pernapasan & Peredaran Darah**: Oksigen masuk ke darah, CO2 dikeluarkan.
+- **Sistem Pencernaan & Peredaran Darah**: Nutrisi diserap dan diedarkan ke tubuh.
+- **Sistem Ekskresi & Peredaran Darah**: Zat sisa dibuang melalui ginjal, kulit, dan paru-paru.
+- **Sistem Rangka & Otot**: Mendukung gerakan tubuh.
 
-## Question 15
-Berapa lama syarat menjadi seorang WNI?
-- Tinggal 3 tahun berturut-turut, atau 10 tahun tidak berturut
-- Tinggal 6 tahun berturut-turut, atau 10 tahun tidak berturut
-- Tinggal 5 tahun berturut-turut, atau 10 tahun tidak berturut ✅
-- Tinggal 7 tahun berturut-turut, atau 10 tahun tidak berturut
+---
+Dokumen ini dapat disalin langsung ke GitHub untuk referensi belajar.
 
-
-
-
-## Latihan Soal Esai PKN
-
-### Date: X MIPA 2
-
-### 1. Sebutkan perbedaan bentuk-bentuk negara!
-- **Negara Kesatuan**: 
-  - Memiliki sifat unitaris (tidak ada negara lain yang lebih kecil di dalamnya)
-  - Terdiri dari provinsi
-- **Negara Serikat**:
-  - Terbentuk dari negara-negara bagian yang lebih kecil
-  - Hukum berbeda-beda di setiap negara bagian
-
-### 2. Tuliskan sebab-sebab terbentuknya NKRI!
-- Adanya persamaan nasib
-- Keinginan bersama untuk merdeka
-- Kesatuan tempat tinggal
-- Cita-cita bersama
-
-### 3. Sebutkan perbedaan sistem presidensial dan parlementer!
-- **Sistem Presidensial**:
-  - Kepala negaranya adalah presiden
-  - Presiden memiliki kekuasaan eksekutif penuh
-- **Sistem Parlementer**:
-  - Kepala pemerintahan adalah perdana menteri
-  - Kepala negara bisa berupa raja/ratu, kaisar, sultan, atau presiden
-
-### 4. Sebutkan kewenangan Mahkamah Konstitusi!
-- Menguji undang-undang terhadap UUD
-- Memutus sengketa kewenangan lembaga negara
-- Memutus pembubaran partai politik
-- Memutus perselisihan tentang hasil pemilihan umum
-
-### 5. Sebutkan 3 kasus pelanggaran hak dan pengingkaran kewajiban sebagai warga negara!
-- **Pelanggaran Hak**:
-  - 737 anak Indonesia putus sekolah tahun 2017
-  - Tidak mendapatkan tanggapan hukum yang adil
-  - Masyarakat minoritas tidak mendapatkan hak pilih
-- **Pengingkaran Kewajiban**:
-  - Tidak membayar pajak
-  - Tidak memiliki SIM/KTP
-  - Merusak fasilitas umum
-
-### 6. Sebutkan 3 pengaruh positif dan 3 pengaruh negatif IPTEK!
-- **Positif**:
-  - Hasil seni budaya makin dikenal dan diminati melalui media sosial
-  - Kualitas dan produksi barang dalam negeri meningkat
-  - Kesenian daerah semakin berkembang karena masuknya seni modern
-- **Negatif**:
-  - Unsur adat istiadat daerah makin memudar
-  - Internet menyebarkan hal-hal negatif
-  - Maraknya penyelundupan barang-barang berteknologi tinggi
-
-### 7. Sebutkan sikap selektif dalam menghadapi pengaruh kemajuan IPTEK!
-- Jangan mudah terbawa arus
-- Pilih-pilih informasi yang positif
-- Dasarkan keputusan pada iman kepada Allah
-- Punya ideologi yang teguh
-
-### 8. Sebutkan contoh persatuan dan kesatuan!
-- Toleransi agama, menghargai agama lain tanpa mengganggu atau mengejek
-- Gotong royong, seperti membantu membersihkan lingkungan bersama tetangga
-- Menghargai keanekaragaman budaya, seperti mengapresiasi festival budaya dengan mengunjungi dan menonton pertunjukan tradisional
-
-### 9. Sebutkan perbedaan bentuk pemerintahan republik dan monarki!
-- **Monarki**:
-  - Memiliki seorang raja/ratu sebagai kepala negara
-  - Kepala negara diangkat berdasarkan hak waris/keturunan
-  - Masa jabatan seumur hidup, kecuali turun takhta
-- **Republik**:
-  - Menggunakan sistem politik di mana kepala negara dipilih oleh rakyat melalui pemilu
-  - Rakyat memiliki hak dan kewajiban dalam menentukan pemimpin negara
-  - Kepala negara dan kepala pemerintahan terpisah
-
-### 10. Sebutkan 2 dasar hukum mengapa kita menggunakan bentuk negara kesatuan!
-- **Pasal 1 ayat 1**: "Negara Indonesia adalah negara kesatuan yang berbentuk republik."
-- **Pasal 18 ayat 1**: "Negara Kesatuan Republik Indonesia dibagi atas kabupaten dan kota, yang tiap provinsi, kabupaten, dan kota itu mempunyai pemerintahan daerah yang diatur dengan undang-undang."
